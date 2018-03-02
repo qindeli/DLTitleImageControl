@@ -1,4 +1,4 @@
 # DLTitleImageControl
 
 ## 效果图
-![效果图](http://github.com/qindeli/DLTitleImageControl/raw/master/效果图.png)
+![效果图](https://github.com/qindeli/DLTitleImageControl/blob/master/效果图.png)
